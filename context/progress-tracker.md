@@ -4,23 +4,24 @@ Update this file whenever the current phase, active feature or implementation st
 
 ## Current Phase
 
-- Design System Setup
+- Canvas Implementation
 
 ## Current Goal
 
-- Install and configure `shadcn/ui` with requested components (Button, Card, Dialog, Input, Tabs, Textarea, ScrollArea).
+- Implement the core editor canvas (pending feature specs).
 
 ## Completed
 
 - 01-design-system.md: Design System Setup
+- 02-editor.md: Editor Chrome (Navbar, Sidebar, Dialog Pattern)
 
 ## In Progress
 
-- None yet.
+- None.
 
 ## Next up
 
-- Add the next planned feature unit here.
+- 03-canvas.md: Editor Canvas
 
 ## Open Questions
 
