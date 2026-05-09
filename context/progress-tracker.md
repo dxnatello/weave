@@ -4,15 +4,15 @@ Update this file whenever the current phase, active feature or implementation st
 
 ## Current Phase
 
-- Not started.
+- Design System Setup
 
 ## Current Goal
 
-- Define the immediate implementation goal here.
+- Install and configure `shadcn/ui` with requested components (Button, Card, Dialog, Input, Tabs, Textarea, ScrollArea).
 
 ## Completed
 
-- None yet.
+- 01-design-system.md: Design System Setup
 
 ## In Progress
 
